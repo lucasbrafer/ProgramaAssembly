@@ -1,5 +1,5 @@
 # ProgramaAssembly
-Projeto desenvolvido para disciplina de arquitetura na PUC de Calcular Delta em Assembly
+Projeto desenvolvido para disciplina de arquitetura de computadores na PUC de Calcular Delta em Assembly
 
 ### Programa calcular delta em Assembly 📌
 O código foi feito e simutado na ferramenta QtSpim
