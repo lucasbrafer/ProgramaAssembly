@@ -1,5 +1,5 @@
 # ProgramaAssembly
-Projeto simples para exemplificar um código em Assembly e como executá-lo foi desenvolvido para disciplina de arquitetura de computadores na PUC
+Projeto para exemplificar um código em Assembly e como executá-lo foi desenvolvido para disciplina de arquitetura de computadores na PUC
 
 ### Programa calcular delta em Assembly 📌
 O código foi feito e simutado na ferramenta QtSpim
