@@ -1,7 +1,7 @@
 # ProgramaAssembly
 Projeto para exemplificar um código em Assembly e como executá-lo foi desenvolvido para disciplina de arquitetura de computadores na PUC
 
-### Programa calcular delta em Assembly 📌
+### Programa calcular delta em Assembly 
 O código foi feito e simutado na ferramenta QtSpim
 
 ### Vídeo explicando como simular o código no QtSpim 📹
